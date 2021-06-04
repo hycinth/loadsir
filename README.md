@@ -1,2 +1,0 @@
-# loadsir
-kotlin loadsir
